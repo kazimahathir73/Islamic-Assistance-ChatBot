@@ -18,7 +18,7 @@ def load_qa_pairs(file_path):
     qa_pairs = {item['question']: item['answer'] for item in data}
     return qa_pairs
 
-path = 'F:\\University-ChatBot\\quran_data.json'
+path = "F:\\Islamic-Assistance-ChatBot\\quran_data.json"
 qa_pairs = load_qa_pairs(path)
 
 
