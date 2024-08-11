@@ -8,7 +8,7 @@
 
 .botText{
     font-family: monospace; 
-    font-size: 20px;
+    font-size: 18px;
     text-align: left;
     line-height: 25px;
     color: rgb(40, 46, 40);
@@ -26,7 +26,7 @@
     white;
     border-bottom: 3px solid #afafaf;
     font-family: monospace;
-    font-size: 20px;
+    font-size: 18px;
     width: 60%;
     padding: 16px;
     color: rgb(213, 67, 41);
@@ -35,7 +35,7 @@
 #buttonInput{
     padding: 5px;
     font-family: monospace;
-    font-size: 20px;
+    font-size: 18px;
     border: 3px solid #5b605c;
     background-color: rgb(49, 71, 49);
     color: white;
@@ -51,7 +51,7 @@ h1{
 .userText{
     text-align: right;
     font-family: monospace;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 25px;
     color: rgb(41, 45, 41);
 }
