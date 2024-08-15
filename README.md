@@ -2,6 +2,8 @@
 
 This project is an Islamic Knowledge Assistance Chatbot developed using Django, HTML, and CSS. The bot is designed to answer questions related to Islam by utilizing a retrieval-based approach with cosine similarity to match user queries with the most relevant answers.
 
+Demo Video - https://youtu.be/V1IRyMDqTm8
+
 ## Features
 
 - **Django Framework**: The backend is built using Django, ensuring a scalable and maintainable codebase.
