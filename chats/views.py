@@ -5,9 +5,6 @@ from .chatbot import get_response
 def function(request):
     return render(request, 'chats/index.html')
 
-def homepage(request):
-    return render(request, 'homepage.html')
-
 def getResponse(request):
     message = request.GET.get('userMessage')
     bot_response = get_response(message)
